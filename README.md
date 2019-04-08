@@ -69,4 +69,3 @@ _If you run into any issues or have questions, ideas or concerns. Please email m
 *MIT*
 
 Copyright (c) 2019 **_Yulia Shidlovskaya and Clara Munro_**
-Clara Munro and Yulia Shidlovskaya
